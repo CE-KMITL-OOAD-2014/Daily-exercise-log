@@ -48,7 +48,6 @@
 ####Domain classes    
    class diagrams    
    ![alt text](https://github.com/CE-KMITL-OOAD-2014/Daily-exercise-log/blob/master/doc/img/Domain%20class.PNG) 
-   
 ####Deployment      
     Software และ Technology ที่ใช้ ได้แก่
      - Ubuntu 14.04 บน VM 
