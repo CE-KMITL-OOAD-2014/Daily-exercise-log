@@ -39,7 +39,7 @@
 - **ฐานข้อมูลท่าบริหาร**   
    -	ข้อมูลท่าบริหาร  :  ภายในจะเก็บข้อมูล ท่าบริหาร  ข้อเสนอแนะ    
    
-- Sequence diagram
+- #Sequence diagram
     1. ข้อเสนอแนะ   
 ![alt text](https://github.com/CE-KMITL-OOAD-2014/Daily-exercise-log/blob/master/doc/img/Sequence%20diagram.PNG)        
     2. ตัววางแผนการบริหาร   
