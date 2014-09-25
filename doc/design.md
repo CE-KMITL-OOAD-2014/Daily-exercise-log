@@ -58,5 +58,5 @@
      - Composer เป็น PHP Dependency manager 
      - Software และระบบทั้งหมดจะทำงานอยู่บน VM IP address : 23.101.27.187       
      
-     ##Implementation Plan  
+##Implementation Plan  
 ![alt text](https://github.com/CE-KMITL-OOAD-2014/Daily-exercise-log/blob/master/doc/img/implementationPlan.PNG)  
