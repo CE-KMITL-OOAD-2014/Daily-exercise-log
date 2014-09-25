@@ -14,4 +14,4 @@
 		-  ตัวจัดการแผนการทำท่าบริหาร
 		-  ตัวจัดการท่าบริหาร
   ####Application Architecture  
-https://github.com/CE-KMITL-OOAD-2014/Daily-exercise-log/blob/master/doc/img/application%20architecture.PNG
+![alt text](https://github.com/CE-KMITL-OOAD-2014/Daily-exercise-log/blob/master/doc/img/application%20architecture.PNG)
