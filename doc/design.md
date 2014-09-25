@@ -49,13 +49,13 @@
    class diagrams    
    ![alt text](https://github.com/CE-KMITL-OOAD-2014/Daily-exercise-log/blob/master/doc/img/Domain%20class.PNG) 
 ####Deployment      
-  -Software และ Technology ที่ใช้ ได้แก่
-     - Ubuntu 14.04 บน VM 
-     - Apache เป็น application sever - Laravel เป็น Framework ที่ใช้พัฒนา(PHP5)
-     - phpMyAdmin เป็นตัวช่วยจัดการฐานข้อมูล 
-     - Bootstrap เป็น Frontend Framework (HTML, CSS, และ JavaScript)
-     - Composer เป็น PHP Dependency manager 
-     - Software และระบบทั้งหมดจะทำงานอยู่บน VM IP address : 23.101.27.187       
+ -Software และ Technology ที่ใช้ ได้แก่
+   - Ubuntu 14.04 บน VM 
+   - Apache เป็น application sever - Laravel เป็น Framework ที่ใช้พัฒนา(PHP5)
+   - phpMyAdmin เป็นตัวช่วยจัดการฐานข้อมูล 
+   - Bootstrap เป็น Frontend Framework (HTML, CSS, และ JavaScript)
+   - Composer เป็น PHP Dependency manager 
+   - Software และระบบทั้งหมดจะทำงานอยู่บน VM IP address : 23.101.27.187       
      
 ##Implementation Plan  
 ![alt text](https://github.com/CE-KMITL-OOAD-2014/Daily-exercise-log/blob/master/doc/img/implementationPlan.PNG)  
