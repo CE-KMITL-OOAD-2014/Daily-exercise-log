@@ -22,9 +22,9 @@
           <div class="col-md-5  toppad  pull-right col-md-offset-3 ">
            <A href="editprofile.php" >Edit Profile</A>
 
-           <A href="edit.html" >Logout</A>
+           <A href="index.php" >Logout</A>
            <br>
-           <p class=" text-info">May 05,2014,03:00 pm </p>
+           
          </div>
          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-3 col-lg-offset-3 toppad" >
 
