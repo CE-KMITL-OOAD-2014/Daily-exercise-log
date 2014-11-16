@@ -17,6 +17,34 @@
     <![endif]-->
   </head>
   <body>
+
+    <div class="navbar navbar-inverse navbar-static-top">
+ 
+ <div class="container">
+ 
+ <a href="#" class="navbar-brand" >Daily Exercise</a> <button class="navbar-toggle"
+      data-toggle="collapse" data-target=".navHeaderCollapse"></button>
+
+      <div class="collapse navbar-collapse navHeaderCollapse">
+        <ul class="nav navbar-nav navbar-right">
+
+          
+          <a type="button" href="profile.php" class="btn btn-primary btn-xl">Profile</a>
+          
+          <a type="button" href="profile.php" class="btn btn-danger btn-xl">Logout</a>
+
+
+         <!-- 
+          <li class="active"><a href="profile.php">Profile</a></li>
+          <li class="active"><a href="#">Daily</a></li>
+          <li class="active"><a href="#">Logout</a></li>  -->
+  
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
       <div class="row">
     <div class="col-md-4 col-md-offset-4">
       <form class="form-horizontal" role="form">
@@ -35,25 +63,35 @@
 
           <!-- Text input-->
           <div class="form-group">
+            <label class="col-sm-2 control-label" for="textinput">Age</label>
+            <div class="col-sm-10">
+              <input type="text" placeholder="Age" class="form-control">
+            </div>
+          </div>
+
+          <!-- Text input-->
+          <div class="form-group">
             <label class="col-sm-2 control-label" for="textinput">Gender</label>
             <div class="col-sm-10">
               <input type="text" placeholder="Gender" class="form-control">
             </div>
           </div>
 
-          <!-- Text input-->
-          <div class="form-group">
-            <label class="col-sm-2 control-label" for="textinput">City</label>
-            <div class="col-sm-10">
-              <input type="text" placeholder="City" class="form-control">
-            </div>
-          </div>
+         
 
          <!-- Text input-->
           <div class="form-group">
             <label class="col-sm-2 control-label" for="textinput">Email</label>
             <div class="col-sm-10">
               <input type="text" placeholder="Email" class="form-control">
+            </div>
+          </div>
+
+           <!-- Text input-->
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="textinput">About</label>
+            <div class="col-sm-10">
+              <input type="text" placeholder="About" class="form-control">
             </div>
           </div>
 
@@ -71,6 +109,7 @@
       </form>
     </div><!-- /.col-lg-12 -->
 </div><!-- /.row -->
+ </div>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
